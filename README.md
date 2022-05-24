@@ -1,5 +1,5 @@
 # swift_3d_polygons
-## Submission for WWDC22
+## Submission for WWDC22 (Accepted)
 
 This app was inspired by one of my favourite toys: Spherical magnetic balls.
 
