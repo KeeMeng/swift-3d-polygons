@@ -8,3 +8,5 @@ Using these magnets, I really enjoyed creating complex shapes and patterns
 One of the issues when sharing these pictures was that it was hard to see the shape from different angles. Therefore, I created this interactive app which can display multiple designs in 3D!
 
 ![Preview](preview.jpeg?raw=true)
+
+![Stars](stars.png?raw=true)
